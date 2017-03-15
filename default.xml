@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <remote name="origin"
+        fetch="."
+        review="https://github.com/twityhwan/hello-world.git"
+    />
+    <default revision="master"
+        remote="origin" />
+    <project path="." name="test"/>
+</manifest>
